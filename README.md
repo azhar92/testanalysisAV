@@ -22,3 +22,11 @@ Methodology
 
 1) Read OxTS data
 2) Clean/smooth/filter the data, following the automotive standards/best practices
+    i) Identify the filter and optimzize its relevant parameters for the revelant dataset e.g cut-off frequency and order of frequency
+    ii) Finalize the configurations
+
+**Application of metrics**
+1) Build the relationship with the data and the application of objective metrics
+    i) Identify the features of the data that corresponds with the metrics e.g. maximum,minimum, feature of the graph, delta/gradient..
+    ii) implement functions for each criteria
+    iii) Report the summary
