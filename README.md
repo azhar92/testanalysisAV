@@ -16,3 +16,9 @@ Methodology
 2) Application of objective metrics 
 3) Create report
 4) Automate  
+
+
+**Data preparation**
+
+1) Read OxTS data
+2) Clean/smooth/filter the data, following the automotive standards/best practices
