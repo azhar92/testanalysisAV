@@ -14,8 +14,9 @@ Methodology
 
 1) Data preparation
 2) Application of objective metrics 
-3) Create report
-4) Automate  
+3) Display the necessary outputs
+4) Create report
+5) Automate  
 
 
 **Data preparation**
@@ -36,3 +37,8 @@ Methodology
     ii) implement functions for each criteria
     
     iii) Report the summary
+    
+**Display the necessary outputs**
+
+1) Display the metrics in appropriate visualisation
+2) Display the important values
