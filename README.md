@@ -42,3 +42,7 @@ Methodology
 
 1) Display the metrics in appropriate visualisation
 2) Display the important values
+
+**Create report**
+
+**Automate**
